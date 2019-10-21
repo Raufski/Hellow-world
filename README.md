@@ -1,2 +1,3 @@
 # Hellow-world
-Homework is a good thing
+I'm a future QA tester at Google NYC hub
+This will change my Life :)
